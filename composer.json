@@ -1,6 +1,5 @@
 {
     "name": "mage-os-italia/module-language-it_it",
-    "version": "0.0.26",
     "type": "magento2-language",
     "description": "it_IT language package.",
     "license": [
